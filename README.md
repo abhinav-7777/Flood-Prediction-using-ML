@@ -78,4 +78,4 @@ The dataset consists of **115 records** with **11 attributes**, including weathe
 This project demonstrates how machine learning can be effectively used to predict floods using weather data. By integrating a trained model with a web-based application, the system provides an accessible and practical solution for flood risk assessment and early warning.
 
 
-Just tell me 👍****
+****
